@@ -1,2 +1,2 @@
 # MyJavaPrograms
-This repository contains my java practice programs
+This repository contains my Java practice programs
